@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\bin\Debug\net6.0-windows\HorseRace.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\bin\Debug\net6.0-windows\HorseRace.deps.json
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\bin\Debug\net6.0-windows\HorseRace.runtimeconfig.json
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\bin\Debug\net6.0-windows\HorseRace.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\bin\Debug\net6.0-windows\HorseRace.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.Form1.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.Properties.Resources.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.AssemblyInfo.cs
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\refint\HorseRace.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\HorseRace.genruntimeconfig.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\HorseRace\obj\Debug\net6.0-windows\ref\HorseRace.dll
