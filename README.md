@@ -19,3 +19,8 @@ C# PROJECTS
 ## [04- RadioAutomation](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/RadioAutomation)
 
 ![RadioAutomation](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/RadioAutomation/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
+
+## [05- HorseRace](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/HorseRace)
+
+![HorseRace](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/HorseRace/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
