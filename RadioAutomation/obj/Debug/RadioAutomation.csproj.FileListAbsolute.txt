@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\bin\Debug\RadioAutomation.exe.config
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\bin\Debug\RadioAutomation.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\bin\Debug\RadioAutomation.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.Form1.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.Properties.Resources.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\RadioAutomation\obj\Debug\RadioAutomation.pdb
