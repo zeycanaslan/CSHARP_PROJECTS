@@ -1,8 +1,16 @@
 # CSHARP_PROJECTS
 C# PROJECTS
 
-## [0-1 Timer] (https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Timer/Form1.cs)
-       Convert Text to Baracode.
+## [01- Timer](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Timer/Form1.cs)
 
 ![Timer](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 
+
+## [02- Calculator](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/Calculator)
+
+![Calculator](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Calculator/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
+
+## [03- MenuStripExample](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/MenuStripExample)
+
+![MenuStripExample](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/MenuStripExample/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
