@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 
 
 
-namespace muratYucedag
+namespace DATABASE_CONNECT
 {
     public partial class Form1 : Form
     {
@@ -18,7 +18,7 @@ namespace muratYucedag
         }
 
 
-        SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-L29GB0I\\SQLEXPRESS;Initial Catalog=CUSTOMERS;Integrated Security=True");
+        SqlConnection baglanti = new SqlConnection("SQL BAĞLANTINIZ");
         private void button1_Click(object sender, EventArgs e)
         {
             SqlDataAdapter sqlDataAdapter = new SqlDataAdapter("Select * from TABLE_CUSTOMERS", baglanti);
