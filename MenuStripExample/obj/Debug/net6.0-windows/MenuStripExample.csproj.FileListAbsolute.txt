@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.Form1.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.AssemblyInfo.cs
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\bin\Debug\net6.0-windows\MenuStripExample.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\bin\Debug\net6.0-windows\MenuStripExample.deps.json
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\bin\Debug\net6.0-windows\MenuStripExample.runtimeconfig.json
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\bin\Debug\net6.0-windows\MenuStripExample.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\bin\Debug\net6.0-windows\MenuStripExample.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\refint\MenuStripExample.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\MenuStripExample.genruntimeconfig.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\MenuStripExample\obj\Debug\net6.0-windows\ref\MenuStripExample.dll
