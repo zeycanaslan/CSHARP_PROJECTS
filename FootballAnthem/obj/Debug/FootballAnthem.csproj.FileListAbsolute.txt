@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\bin\Debug\FootballAnthem.exe.config
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\bin\Debug\FootballAnthem.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\bin\Debug\FootballAnthem.pdb
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.Form1.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.Properties.Resources.resources
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.exe
+C:\Users\USER\Desktop\GUTHUBDESKTOP\C# PROJECTS\FootballAnthem\obj\Debug\FootballAnthem.pdb
