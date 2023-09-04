@@ -24,3 +24,7 @@ C# PROJECTS
 ## [05- HorseRace](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/HorseRace)
 
 ![HorseRace](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/HorseRace/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
+## [06- FootballAnthem](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/FootballAnthem)
+
+![FootballAnthem](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/FootballAnthem/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
