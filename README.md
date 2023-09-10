@@ -28,3 +28,7 @@ C# PROJECTS
 ## [06- FootballAnthem](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/FootballAnthem)
 
 ![FootballAnthem](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/FootballAnthem/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+
+## [07- MusicPlayer](https://github.com/zeycanaslan/CsharpFORM_PROJECTS/tree/main/MusicPlayer)
+
+![MusicPlayer](https://github.com/zeycanaslan/CsharpFORM_PROJECTS/blob/main/MusicPlayer/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
