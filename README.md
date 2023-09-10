@@ -3,7 +3,7 @@ C# PROJECTS
 
 ## [01- Timer](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Timer/Form1.cs)
 
-![Timer](https://github.com/zeycanaslan/CSHARP_PROJECTS/blob/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
+![Timer](https://github.com/zeycanaslan/CsharpFORM_PROJECTS/blob/main/Timer/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
 
 
 ## [02- Calculator](https://github.com/zeycanaslan/CSHARP_PROJECTS/tree/main/Calculator)
